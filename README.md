@@ -2,5 +2,5 @@
 
 technos :
 
-Laravel, sss , vite , js , alpin js 
+Laravel, sss , tailwind css , vite , js , alpin js 
 
