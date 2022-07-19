@@ -14,7 +14,7 @@
             </div>
         </div>
         <x-torchlight-code language='php'>
-            echo "Hello World!";
+            echo "Hello World !";
         </x-torchlight-code>
     </div>
 </x-app-layout>
