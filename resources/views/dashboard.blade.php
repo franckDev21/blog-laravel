@@ -13,7 +13,7 @@
                 </div>
             </div>
         </div>
-        <x-torchlight-code language='php' class="bg-gray-800 p-4 rounded-md mt-4 mx-auto max-w-lg">
+        <x-torchlight-code language='php' class="bg-gray-800 rounded-md mt-4 mx-auto">
             echo "Hello World !";
         </x-torchlight-code>
     </div>
