@@ -19,7 +19,7 @@
     </head>
     <body class="bg-gray-700  min-h-full ">
       <div class="max-w-6xl font-bold text-4xl mx-auto mt-8 text-center bg-white rounded-lg p-5">
-        Encore en développement 
+        Encore en développement s
       </div>
         {{-- @if (Route::has('login'))
                 <div class="hidden fixed top-0 right-0 px-6 py-4 sm:block">
